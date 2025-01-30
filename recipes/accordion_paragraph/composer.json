@@ -1,0 +1,17 @@
+{
+  "name": "coldson/accordion_paragraph",
+  "description": "A Drupal recipe that provides a simple Accordion and Accordion Item paragraph types",
+  "license": "MIT",
+  "type": "drupal-recipe",
+  "authors": [
+    {
+      "name": "Carson Oldson",
+      "email": "coldson@forumone.com",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "drupal/paragraphs": "^1.18"
+  }
+}
+

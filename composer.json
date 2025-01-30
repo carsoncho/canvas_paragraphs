@@ -1,0 +1,23 @@
+{
+    "name": "coldson/canvas_paragraphs",
+    "description": "A monorepo that holds several paragraph type Drupal recipes.",
+    "license": "MIT",
+    "type": "library",
+    "repositories": [
+        {
+            "type":  "path", "url":  "recipes/*"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Carson Oldson",
+            "email": "coldson@forumone.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "coldson/accordion_paragraph": "*",
+        "coldson/block_embed_paragraph": "*"
+    }
+}
+
