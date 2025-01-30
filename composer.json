@@ -19,6 +19,8 @@
     "require": {
         "carsoncho/accordion_paragraph": "*",
         "carsoncho/block_embed_paragraph": "*"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
 

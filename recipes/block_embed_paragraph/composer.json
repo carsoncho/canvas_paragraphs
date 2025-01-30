@@ -10,9 +10,17 @@
       "role": "Maintainer"
     }
   ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  ],
   "require": {
     "drupal/paragraphs": "^1.18",
     "drupal/block_field": "^1.0@RC"
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
 
