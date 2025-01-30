@@ -20,8 +20,6 @@
         }
     ],
     "require": {
-        "carsoncho/accordion_paragraph": "dev-main",
-        "carsoncho/block_embed_paragraph": "dev-main"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
