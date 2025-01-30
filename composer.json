@@ -5,6 +5,10 @@
     "type": "library",
     "repositories": [
         {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        },
+        {
             "type": "path",
             "url": "recipes/*"
         }
@@ -17,8 +21,8 @@
         }
     ],
     "require": {
-        "carsoncho/accordion_paragraph": "*",
-        "carsoncho/block_embed_paragraph": "*"
+        "carsoncho/accordion_paragraph": "dev-main",
+        "carsoncho/block_embed_paragraph": "dev-main"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
