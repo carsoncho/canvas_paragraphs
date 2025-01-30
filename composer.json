@@ -2,7 +2,6 @@
     "name": "carsoncho/canvas_paragraphs",
     "description": "A monorepo that holds several paragraph type Drupal recipes.",
     "license": "MIT",
-    "type": "library",
     "repositories": [
         {
             "type": "composer",
