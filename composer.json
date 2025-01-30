@@ -5,7 +5,8 @@
     "type": "library",
     "repositories": [
         {
-            "type":  "path", "url":  "recipes/*"
+            "type": "path",
+            "url": "recipes/*"
         }
     ],
     "authors": [
@@ -16,8 +17,8 @@
         }
     ],
     "require": {
-        "coldson/accordion_paragraph": "*",
-        "coldson/block_embed_paragraph": "*"
+        "carsoncho/accordion_paragraph": "*",
+        "carsoncho/block_embed_paragraph": "*"
     }
 }
 

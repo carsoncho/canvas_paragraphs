@@ -1,5 +1,5 @@
 {
-  "name": "coldson/block_embed_paragraph",
+  "name": "carsoncho/block_embed_paragraph",
   "description": "A Drupal recipe that provides a simple block_embed paragraph type",
   "license": "MIT",
   "type": "drupal-recipe",

@@ -1,5 +1,5 @@
 {
-  "name": "coldson/accordion_paragraph",
+  "name": "carsoncho/accordion_paragraph",
   "description": "A Drupal recipe that provides a simple Accordion and Accordion Item paragraph types",
   "license": "MIT",
   "type": "drupal-recipe",
